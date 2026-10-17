@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <link rel="stylesheet" href="css/style.css">
 <html>
+<div class=crt>
+<div class=crt>
 <body>
-<div class=crt></div>
-
 <div class="background">
   <div class="window glass active" style="max-width: 100%; margin: 0 1.5em; --w7-w-bg: #646464;">
     <div class="title-bar">
@@ -25,6 +25,8 @@ hihi, i'm knight. i like art and coding and music. i'm 16, a pisces, and a lesbi
 </details>
     </div>
   </div>
+</div>
+</div>
 </div>
 </body>
 </html>
