@@ -1,16 +1,35 @@
-## Hi there 👋
+<html>
 
-<!--
-**arkkniight/arkkniight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
 
-Here are some ideas to get you started:
+/* --------------- crt effect */
+.crt::before {
+  content: " ";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+  background-size: 100% 2px, 3px 100%;
+  z-index: 9999;
+  pointer-events: none;
+}
+/* --------------- */
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+/* --------------- body text */
+.bodystyle {
+  font-family: "MS gothic", monospace;
+  font-size: 12px;
+  color: black;
+  link-color: #474747;
+  link-color-hover: #828282;
+}
+/* --------------- */
+  
+</style>
+
+<p class=bodystyle>testing</p>
+
+</html>
