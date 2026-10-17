@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <link rel="stylesheet" href="css/style.css">
 <html>
+<body>
 <div class=crt></div>
 
 <div class="background">
@@ -25,5 +26,5 @@ hihi, i'm knight. i like art and coding and music. i'm 16, a pisces, and a lesbi
     </div>
   </div>
 </div>
-
+</body>
 </html>
