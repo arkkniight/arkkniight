@@ -1,5 +1,3 @@
-<html>
-
 <style>
 
 /* --------------- crt effect */
@@ -30,6 +28,8 @@
   
 </style>
 
+<html>
+  
 <p class=bodystyle>testing</p>
 
 </html>
