@@ -71,7 +71,7 @@
       ㅤ            ﹒    <b>K N I G H T</b>  ﹕☆<br>
 hihi, i'm knight. i like art and coding and music. i'm 16, a pisces, and a lesbian ˆ𐃷ˆ
       </span>
-      <details>
+      <details open>
   <summary><span class=bodystyle>interests</span></summary>
   <p class=bodystylesmall>-arkham trilogy<br>-dc comics<br>-mcu<br>-steven universe</p>
 </details>
