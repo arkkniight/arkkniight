@@ -1,4 +1,4 @@
 <img src="https://files.catbox.moe/qdnmf6.png" width="15%" alt="main gif" align="left">
-<p> <b>K N I G H T</b>  ﹕.𖥔 ݁ ˖ִ🛸༄˖°.<br>
-hihi, i'm knight. i like art and coding and music. i'm 16, a pisces, and a lesbian ˆ𐃷ˆ</p>
+<p>ƙׁׅ֑ ꪀׁׅ ꪱׁׅ ᧁׁ hׁׅ֮ tׁׅ  ﹕.𖥔 ݁ ˖ִ °.<br>
+𝘩𝘪𝘩𝘪, 𝘪'𝘮 𝘬𝘯𝘪𝘨𝘩𝘵. 𝘪 𝘭𝘪𝘬𝘦 𝘢𝘳𝘵 𝘢𝘯𝘥 𝘤𝘰𝘥𝘪𝘯𝘨 𝘢𝘯𝘥 𝘮𝘶𝘴𝘪𝘤. 𝘪'𝘮 16, 𝘢 𝘱𝘪𝘴𝘤𝘦𝘴, 𝘢𝘯𝘥 𝘢 𝘭𝘦𝘴𝘣𝘪𝘢𝘯 ˆ𐃷ˆ</p><sub>𝘪 𝘣𝘭𝘰𝘤𝘬/𝘩𝘪𝘥𝘦 𝘷𝘦𝘳𝘺 𝘧𝘳𝘦𝘦𝘭𝘺.<br></sub>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ms+gothic&size=17&duration=5036&pause=1000&color=5D5D5D&multiline=true&width=900&lines='+and+i'm+afraid+that+when+i+walk+through+those++asylum+gates+...+when+i+walk+into+arkham+and+the;+doors+close+behind+me+...+it'll+be+just+like+coming+home.+'" alt="Typing SVG" /></a>
