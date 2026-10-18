@@ -1,6 +1,6 @@
+<html>
 <link rel="stylesheet" href="https://unpkg.com/7.css">
 <link rel="stylesheet" href="css/style.css">
-<html>
 <div class=crt>
 <div class=crt>
 <body>
