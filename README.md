@@ -1,6 +1,6 @@
 <html>
 <link rel="stylesheet" href="https://unpkg.com/7.css">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="/workspaces/arkkniight/css/style.css">
 <div class=crt>
 <div class=crt>
 <body>
